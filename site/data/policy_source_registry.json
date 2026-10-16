@@ -27,11 +27,12 @@
     "entry_urls": [
       "https://www.kegoc.kz/en/"
     ],
-    "source_type": "政策法规",
+    "source_type": "政策线索",
     "crawl_mode": "html_listing",
     "adapter": "",
     "origin": "用户原始121站网址清单",
-    "priority": "正常"
+    "priority": "正常",
+    "classification_note": "电网经营商信息可做行业线索，不可替代国家法律库"
   },
   {
     "id": "intl_032ffd7444d8",
@@ -40,9 +41,9 @@
     "province": "",
     "group": "乌兹别克",
     "name": "乌兹别克国家法律数据库",
-    "url": "https://lex.uz/en/",
+    "url": "https://lex.uz/en/search/all?lang=3",
     "entry_urls": [
-      "https://lex.uz/en/"
+      "https://lex.uz/en/search/all?lang=3"
     ],
     "source_type": "政策法规",
     "crawl_mode": "html_listing",
@@ -124,10 +125,11 @@
     "country": "沙特阿拉伯",
     "province": "",
     "group": "沙特",
-    "name": "powersaudiarabia.com.sa",
-    "url": "https://powersaudiarabia.com.sa/web/index.html",
+    "name": "沙特电力监管局 SERA｜法律法规",
+    "url": "https://www.sera.gov.sa/en/systems-and-regulations/systems-and-regulations",
     "entry_urls": [
-      "https://powersaudiarabia.com.sa/web/index.html"
+      "https://www.sera.gov.sa/en/systems-and-regulations/systems-and-regulations",
+      "https://www.sera.gov.sa/en/systems-and-regulations/rules-guidelines-and-organizational-frameworks"
     ],
     "source_type": "政策法规",
     "crawl_mode": "html_listing",
@@ -265,11 +267,12 @@
     "entry_urls": [
       "https://energy.ec.europa.eu/topics/renewable-energy/eu-wind-energy_en"
     ],
-    "source_type": "政策法规",
+    "source_type": "政策线索",
     "crawl_mode": "html_listing",
     "adapter": "",
     "origin": "用户原始121站网址清单",
-    "priority": "正常"
+    "priority": "正常",
+    "classification_note": "欧委会风电专题是政策背景，欧盟具有法律效力的原文由 EUR-Lex 独立覆盖"
   },
   {
     "id": "intl_64e5307cf1d2",
@@ -278,9 +281,9 @@
     "province": "",
     "group": "欧盟",
     "name": "EUR-Lex 欧盟法规库",
-    "url": "https://eur-lex.europa.eu/homepage.html",
+    "url": "https://eur-lex.europa.eu/advanced-search-form.html?locale=en",
     "entry_urls": [
-      "https://eur-lex.europa.eu/homepage.html"
+      "https://eur-lex.europa.eu/advanced-search-form.html?locale=en"
     ],
     "source_type": "政策法规",
     "crawl_mode": "html_listing",
@@ -333,13 +336,15 @@
     "url": "https://www.iea.org/policies?topic%5B0%5D=Power",
     "entry_urls": [
       "https://www.iea.org/policies?topic%5B0%5D=Power",
+      "https://www.iea.org/policies",
       "https://www.iea.org/search/policies?q=wind"
     ],
-    "source_type": "政策法规",
+    "source_type": "政策线索",
     "crawl_mode": "special_adapter",
     "adapter": "iea_policy_search",
     "origin": "用户原始121站网址清单",
-    "priority": "正常"
+    "priority": "正常",
+    "classification_note": "IEA 是政策汇编，不是具有法律效力的监管机关原文"
   },
   {
     "id": "cn_68fd9b24ba66",
@@ -348,9 +353,10 @@
     "province": "",
     "group": "标准法规项",
     "name": "全国标准信息公共服务平台",
-    "url": "https://std.samr.gov.cn/",
+    "url": "https://std.samr.gov.cn/gb/gbQuery.National",
     "entry_urls": [
-      "https://std.samr.gov.cn/"
+      "https://std.samr.gov.cn/search/stdPage?q=%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E6%9C%BA%E7%BB%84",
+      "https://std.samr.gov.cn/gb/gbQuery.National"
     ],
     "source_type": "法规标准",
     "crawl_mode": "special_adapter",
@@ -904,7 +910,9 @@
     "name": "江苏省发改委",
     "url": "https://fzggw.jiangsu.gov.cn/module/jslib/zcjd/zcjd.htm",
     "entry_urls": [
-      "https://fzggw.jiangsu.gov.cn/module/jslib/zcjd/zcjd.htm"
+      "https://fzggw.jiangsu.gov.cn/module/jslib/zcjd/zcjd.htm",
+      "https://fzggw.jiangsu.gov.cn/col/col59308/index.html",
+      "https://fzggw.jiangsu.gov.cn/col/col51007/index.html"
     ],
     "source_type": "政策法规",
     "crawl_mode": "html_listing",
@@ -1674,9 +1682,10 @@
     "province": "云南",
     "group": "云南",
     "name": "云南省人民政府",
-    "url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/",
+    "url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/index.html",
     "entry_urls": [
-      "https://www.yn.gov.cn/zwgk/zcwj/zxwj/"
+      "https://www.yn.gov.cn/zwgk/zcwj/zxwj/index.html",
+      "https://www.yn.gov.cn/zwgk/zcwj/yzf/"
     ],
     "source_type": "政策法规",
     "crawl_mode": "html_listing",
@@ -1708,10 +1717,11 @@
     "country": "中国",
     "province": "云南",
     "group": "云南",
-    "name": "云南省工信部",
-    "url": "https://gxt.yn.gov.cn/zwgk/zc/zfwj2ynsgxw",
+    "name": "云南省工信厅｜政策文件",
+    "url": "https://gxt.yn.gov.cn/zfxxgk/zcwj/qtlxwj/",
     "entry_urls": [
-      "https://gxt.yn.gov.cn/zwgk/zc/zfwj2ynsgxw"
+      "https://gxt.yn.gov.cn/zfxxgk/zcwj/qtlxwj/",
+      "https://gxt.yn.gov.cn/zfxxgk/zcwj/"
     ],
     "source_type": "政策法规",
     "crawl_mode": "html_listing",
@@ -2037,11 +2047,12 @@
     "entry_urls": [
       "https://niwe.res.in/department/department_s%26r/"
     ],
-    "source_type": "政策法规",
+    "source_type": "法规标准",
     "crawl_mode": "html_listing",
     "adapter": "",
     "origin": "用户原始121站网址清单",
-    "priority": "正常"
+    "priority": "正常",
+    "classification_note": "印度风能研究院为技术标准与认证资料来源，非完整国家法律库"
   },
   {
     "id": "intl_f7bbe0b9bd8f",
