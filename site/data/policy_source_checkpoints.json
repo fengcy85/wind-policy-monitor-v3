@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T01:01:47+00:00",
+  "updated_at": "2026-10-16T07:49:24+00:00",
   "bootstrap_days": 30,
   "daily_overlap_days": 2,
   "sources": {
@@ -15,7 +15,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:37+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://adilet.zan.kz/eng/"
     },
     "intl_fc40306c8d18": {
       "source_id": "intl_fc40306c8d18",
@@ -28,20 +29,23 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:37+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.kegoc.kz/en/"
     },
     "intl_032ffd7444d8": {
       "source_id": "intl_032ffd7444d8",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:46:40+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:46:37+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://lex.uz/en/search/all?lang=3"
     },
     "intl_0033bc5d506a": {
       "source_id": "intl_0033bc5d506a",
@@ -54,7 +58,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:37+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://vbpl.vn/"
     },
     "intl_2dbdce92512c": {
       "source_id": "intl_2dbdce92512c",
@@ -67,7 +72,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:38+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://moit.gov.vn/van-ban-phap-luat"
     },
     "intl_2dc77d6e8664": {
       "source_id": "intl_2dc77d6e8664",
@@ -80,7 +86,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:40+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.resmigazete.gov.tr/"
     },
     "intl_87a7aa70bf22": {
       "source_id": "intl_87a7aa70bf22",
@@ -93,7 +100,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:40+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.epdk.gov.tr/detay/icerik/23-2-3/mevzuat"
     },
     "intl_39999515ec1f": {
       "source_id": "intl_39999515ec1f",
@@ -106,20 +114,23 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:40+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.sera.gov.sa/en/systems-and-regulations/systems-and-regulations"
     },
     "intl_0e079da25f30": {
       "source_id": "intl_0e079da25f30",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:46:43+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:46:41+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://www.nersa.org.za/electricity/regulatory-rules"
     },
     "intl_845de2334f9c": {
       "source_id": "intl_845de2334f9c",
@@ -132,7 +143,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:46:43+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.ntcsa.co.za/grid-code-management-2/"
     },
     "intl_fb3e8ad4274d": {
       "source_id": "intl_fb3e8ad4274d",
@@ -145,7 +157,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:46:43+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://nrea.gov.eg/test/en/Home"
     },
     "intl_2d4b292b6df3": {
       "source_id": "intl_2d4b292b6df3",
@@ -158,7 +171,8 @@
       "total_attempts": 4,
       "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
       "last_attempt_at": "2026-10-16T00:46:44+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://egyptera.org/en/Rules.aspx"
     },
     "intl_859650137482": {
       "source_id": "intl_859650137482",
@@ -171,7 +185,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:46+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://anre.ma/regulations/tarification/"
     },
     "intl_d678f36c7a03": {
       "source_id": "intl_d678f36c7a03",
@@ -184,7 +199,8 @@
       "total_attempts": 4,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T00:46:46+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.gov.br/aneel/pt-br/assuntos/geracao/regulacao"
     },
     "intl_53f753c6dd77": {
       "source_id": "intl_53f753c6dd77",
@@ -197,7 +213,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:48+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.normattiva.it/"
     },
     "intl_6f87a1487e95": {
       "source_id": "intl_6f87a1487e95",
@@ -210,7 +227,8 @@
       "total_attempts": 4,
       "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
       "last_attempt_at": "2026-10-16T00:46:52+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://energy.ec.europa.eu/topics/renewable-energy/eu-wind-energy_en"
     },
     "intl_64e5307cf1d2": {
       "source_id": "intl_64e5307cf1d2",
@@ -223,7 +241,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:52+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://eur-lex.europa.eu/advanced-search-form.html?locale=en"
     },
     "cn_d4013c1b2a1e": {
       "source_id": "cn_d4013c1b2a1e",
@@ -236,7 +255,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:46:52+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://sousuo.www.gov.cn/zcwjk/policyRetrieval"
     },
     "cn_37cf03ee8fd2": {
       "source_id": "cn_37cf03ee8fd2",
@@ -249,7 +269,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:46:56+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.gov.cn/zhengce/zuixin/"
     },
     "intl_b1f77d6fbfeb": {
       "source_id": "intl_b1f77d6fbfeb",
@@ -262,7 +283,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:46:59+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://www.iea.org/policies?topic%5B0%5D=Power"
     },
     "cn_68fd9b24ba66": {
       "source_id": "cn_68fd9b24ba66",
@@ -275,7 +297,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:47:00+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://std.samr.gov.cn/gb/gbQuery.National"
     },
     "cn_b7b7d481ef53": {
       "source_id": "cn_b7b7d481ef53",
@@ -288,7 +311,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:47:01+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://openstd.samr.gov.cn/bzgk/std/index"
     },
     "cn_9abe6d2f93c7": {
       "source_id": "cn_9abe6d2f93c7",
@@ -301,7 +325,8 @@
       "total_attempts": 4,
       "last_error": "取得带原文证据的法规，但目录仍未完整覆盖，继续补查",
       "last_attempt_at": "2026-10-16T00:47:02+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?q=&t=zhengcelibrary&orpro="
     },
     "cn_8101686d3883": {
       "source_id": "cn_8101686d3883",
@@ -314,7 +339,8 @@
       "total_attempts": 4,
       "last_error": "达到详情或目录翻页限额，不能判定完整覆盖",
       "last_attempt_at": "2026-10-16T00:47:09+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/"
     },
     "cn_24e54ba38a1a": {
       "source_id": "cn_24e54ba38a1a",
@@ -327,33 +353,38 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:47:13+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://fgw.beijing.gov.cn/fgwzwgk/2024zcwj/"
     },
     "cn_1003b870a030": {
       "source_id": "cn_1003b870a030",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:47:15+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:47:13+00:00",
-      "last_status": "ok_with_results"
+      "last_status": "ok_with_results",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/"
     },
     "cn_ad5b4fd78be8": {
       "source_id": "cn_ad5b4fd78be8",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:47:16+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:47:14+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://csglw.beijing.gov.cn/zwxx/2024zcwj/"
     },
     "cn_bcae52a0ff64": {
       "source_id": "cn_bcae52a0ff64",
@@ -366,7 +397,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:47:15+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.tj.gov.cn/zwgk/szfwj/index.html"
     },
     "cn_17bffa52408e": {
       "source_id": "cn_17bffa52408e",
@@ -379,7 +411,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:47:16+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://fzgg.tj.gov.cn/zwgk_47325/zcfg_47338/zcwjx/fgwj/"
     },
     "cn_5dc355c1a7a8": {
       "source_id": "cn_5dc355c1a7a8",
@@ -392,7 +425,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:47:20+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://gyxxh.tj.gov.cn/ZWGK4147/ZCWJ6355/wjwj/"
     },
     "cn_9218a245fb7e": {
       "source_id": "cn_9218a245fb7e",
@@ -405,7 +439,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:47:21+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.hebei.gov.cn/columns/49f13cc2-db03-4d0c-b4fe-2f3f659d3b6e/index.html"
     },
     "cn_bcbd7c678a4f": {
       "source_id": "cn_bcbd7c678a4f",
@@ -418,7 +453,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:47:21+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://hbdrc.hebei.gov.cn/jhlm/jhzcfg/index.html"
     },
     "cn_72b1e5bf6cc8": {
       "source_id": "cn_72b1e5bf6cc8",
@@ -431,7 +467,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:47:24+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.shanxi.gov.cn/zcwjk/swwj/"
     },
     "cn_0cedc4affbe8": {
       "source_id": "cn_0cedc4affbe8",
@@ -444,7 +481,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:47:28+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://nyj.shanxi.gov.cn/zfxxgk/fdzdgknr/sjwj/fdzdgknr_11759.html"
     },
     "cn_f967a158ac3f": {
       "source_id": "cn_f967a158ac3f",
@@ -457,7 +495,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:48:26+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://gxt.shanxi.gov.cn/zcwj/wjfb/"
     },
     "cn_05f1f10b143f": {
       "source_id": "cn_05f1f10b143f",
@@ -470,7 +509,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:48:26+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fgw.shanxi.gov.cn/sxfgwzwgk/sxsfgwxxgk/xxgkml/zfxxgkxgwj/"
     },
     "cn_09b66c7ebd13": {
       "source_id": "cn_09b66c7ebd13",
@@ -483,7 +523,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:48:58+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/?gk=3&cid=3696"
     },
     "cn_c6f9b3f56fe8": {
       "source_id": "cn_c6f9b3f56fe8",
@@ -496,20 +537,23 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:49:01+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://fgw.nmg.gov.cn/zfxxgk/fdzdgknr/bmwj/"
     },
     "cn_eb58eb83050f": {
       "source_id": "cn_eb58eb83050f",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:49:04+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:49:03+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://nyj.nmg.gov.cn/tzgg/"
     },
     "cn_687800e62fca": {
       "source_id": "cn_687800e62fca",
@@ -522,7 +566,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:49:04+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfwj/index.shtml"
     },
     "cn_c9be69562225": {
       "source_id": "cn_c9be69562225",
@@ -535,7 +580,8 @@
       "total_attempts": 4,
       "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
       "last_attempt_at": "2026-10-16T00:49:06+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://fgw.ln.gov.cn/fgw/zc/zxzc/index.shtml"
     },
     "cn_4b359756b91a": {
       "source_id": "cn_4b359756b91a",
@@ -548,7 +594,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:49:07+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://gxt.ln.gov.cn/gxt/zfxxgk/zc/xzgfxwj/index.shtml"
     },
     "cn_fcdd8a95a7df": {
       "source_id": "cn_fcdd8a95a7df",
@@ -561,7 +608,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:49:10+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://xxgk.jl.gov.cn/szf/gkml/"
     },
     "cn_3c9957b26c3c": {
       "source_id": "cn_3c9957b26c3c",
@@ -574,7 +622,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:49:17+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://xxgk.jl.gov.cn/zcbm/fgw/xxgkmlqy/"
     },
     "cn_573ba3b6d161": {
       "source_id": "cn_573ba3b6d161",
@@ -587,59 +636,68 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:49:20+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://xxgk.jl.gov.cn/zcbm/fgw_97953/xxgkmlqy/"
     },
     "cn_d9b99a25cf12": {
       "source_id": "cn_d9b99a25cf12",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:49:24+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:49:22+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://www.hlj.gov.cn/hlj/c108371/zfxxgk_search.shtml"
     },
     "cn_be6b37d7a3a0": {
       "source_id": "cn_be6b37d7a3a0",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:49:27+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:49:24+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://gxt.hlj.gov.cn/gxt/c106981/zfxxgk.shtml?tab=gfxwj"
     },
     "cn_e3337f219cd6": {
       "source_id": "cn_e3337f219cd6",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:49:32+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:49:27+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://drc.hlj.gov.cn/drc/c111444/common_zfxxgk.shtml?tab=gfxwj"
     },
     "cn_27e871c7b989": {
       "source_id": "cn_27e871c7b989",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:49:28+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:49:27+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://www.shanghai.gov.cn/nw42944/index.html"
     },
     "cn_a70a2ad659af": {
       "source_id": "cn_a70a2ad659af",
@@ -652,7 +710,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:49:28+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.sheitc.sh.gov.cn/zcfg/index.html"
     },
     "cn_c3d9397ca287": {
       "source_id": "cn_c3d9397ca287",
@@ -665,7 +724,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:49:32+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fgw.sh.gov.cn/fgw_zcwjfl/index.html"
     },
     "cn_96f475fd98fa": {
       "source_id": "cn_96f475fd98fa",
@@ -678,7 +738,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:49:40+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.jiangsu.gov.cn/col/col84242/index.html"
     },
     "cn_642f1102f38a": {
       "source_id": "cn_642f1102f38a",
@@ -691,7 +752,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:49:42+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://fzggw.jiangsu.gov.cn/module/jslib/zcjd/zcjd.htm"
     },
     "cn_c37e9b9f7acf": {
       "source_id": "cn_c37e9b9f7acf",
@@ -704,7 +766,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:49:44+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://gxt.jiangsu.gov.cn/col/col80179/index.html"
     },
     "cn_826688a2babc": {
       "source_id": "cn_826688a2babc",
@@ -717,7 +780,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:49:46+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.zj.gov.cn/col/col1228964496/index.html"
     },
     "cn_bc2b5fe1372b": {
       "source_id": "cn_bc2b5fe1372b",
@@ -730,7 +794,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:50:02+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://www.ah.gov.cn/site/tpl/2581"
     },
     "cn_23a1b77623a0": {
       "source_id": "cn_23a1b77623a0",
@@ -743,7 +808,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:50:02+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://fzggw.ah.gov.cn/public/column/7011?type=6&action=xinzheng"
     },
     "cn_a5db7e800aa9": {
       "source_id": "cn_a5db7e800aa9",
@@ -756,7 +822,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:50:06+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://jx.ah.gov.cn/public/column/6991?type=6&action=xinzheng"
     },
     "cn_b2148d5e1247": {
       "source_id": "cn_b2148d5e1247",
@@ -769,7 +836,8 @@
       "total_attempts": 4,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T00:50:08+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.fujian.gov.cn/zwgk/zxwj/szfwj/"
     },
     "cn_b85a8fe9fba8": {
       "source_id": "cn_b85a8fe9fba8",
@@ -782,7 +850,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:50:10+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://fgw.fujian.gov.cn/zwgk/fgzd/sfgwgfxwj/"
     },
     "cn_18e109d08abf": {
       "source_id": "cn_18e109d08abf",
@@ -795,7 +864,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:50:16+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://gxt.fujian.gov.cn/zwgk/zxwj/"
     },
     "cn_8d7abc70b68b": {
       "source_id": "cn_8d7abc70b68b",
@@ -808,7 +878,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:50:30+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.jiangxi.gov.cn/jxsrmzf/szfwj/pc/list.html"
     },
     "cn_257f0497a96d": {
       "source_id": "cn_257f0497a96d",
@@ -821,7 +892,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:50:31+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://drc.jiangxi.gov.cn/jxsfzhggwyh/col/col4990/index.html"
     },
     "cn_d05bd105b38d": {
       "source_id": "cn_d05bd105b38d",
@@ -834,7 +906,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:50:34+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://gxt.jiangxi.gov.cn/jxsgyhxxht/zcwj/index.html"
     },
     "cn_fdb9ab86c4a9": {
       "source_id": "cn_fdb9ab86c4a9",
@@ -847,7 +920,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:50:40+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "http://www.shandong.gov.cn/col/col320658/index.html"
     },
     "cn_ec953fefe292": {
       "source_id": "cn_ec953fefe292",
@@ -860,7 +934,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:50:46+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "http://fgw.shandong.gov.cn/col/col333896/index.html"
     },
     "cn_64d94992d798": {
       "source_id": "cn_64d94992d798",
@@ -873,20 +948,23 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:51:34+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "http://gxt.shandong.gov.cn/col/col103862/index.html?number=SD020203"
     },
     "cn_124239bfeb82": {
       "source_id": "cn_124239bfeb82",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:51:36+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:51:34+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://sdb.nea.gov.cn/dtyw/tzgg/"
     },
     "cn_c38c37a7f95a": {
       "source_id": "cn_c38c37a7f95a",
@@ -899,7 +977,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:51:35+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://m.henan.gov.cn/zwgk/fgwj/"
     },
     "cn_ca01ba1d0ac7": {
       "source_id": "cn_ca01ba1d0ac7",
@@ -912,7 +991,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:51:36+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://fgw.henan.gov.cn/zwgk/wfgw/"
     },
     "cn_d503c07b0951": {
       "source_id": "cn_d503c07b0951",
@@ -925,7 +1005,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:51:37+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://gxt.henan.gov.cn/xxgk/wjjb/"
     },
     "cn_6677a056500c": {
       "source_id": "cn_6677a056500c",
@@ -938,7 +1019,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:51:39+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.hubei.gov.cn/zfwj/govfile.shtml"
     },
     "cn_68fbb3ebe6ee": {
       "source_id": "cn_68fbb3ebe6ee",
@@ -951,7 +1033,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:51:40+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fgw.hubei.gov.cn/fbjd/zc/gfwj/"
     },
     "cn_7953653226d0": {
       "source_id": "cn_7953653226d0",
@@ -964,7 +1047,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:51:40+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://jxt.hubei.gov.cn/fbjd/zc/qtzdgkwj/gwfb/"
     },
     "cn_3fb2a96af337": {
       "source_id": "cn_3fb2a96af337",
@@ -977,7 +1061,8 @@
       "total_attempts": 4,
       "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
       "last_attempt_at": "2026-10-16T00:51:52+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/wjk_glrb.html"
     },
     "cn_13b15007a2b0": {
       "source_id": "cn_13b15007a2b0",
@@ -990,7 +1075,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:52:06+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szbm/szfzcbm_19689/sjjhxxhwyh_19708/gfxwj_19709/index.html"
     },
     "cn_64dc11b10278": {
       "source_id": "cn_64dc11b10278",
@@ -1003,20 +1089,23 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:52:14+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.hunan.gov.cn/hnszf/xxgk/wjk/szbm/szfzcbm_19689/sfzhggwyh_19690/gfxwj_19691/index.html"
     },
     "cn_a05a053fbf35": {
       "source_id": "cn_a05a053fbf35",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:52:23+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:52:22+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "http://www.gd.gov.cn/zwgk/wjk/qbwj/index.html"
     },
     "cn_35210b5ce137": {
       "source_id": "cn_35210b5ce137",
@@ -1029,7 +1118,8 @@
       "total_attempts": 4,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T00:52:23+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://drc.gd.gov.cn/qtwj/index.html"
     },
     "cn_e290654fb72d": {
       "source_id": "cn_e290654fb72d",
@@ -1042,7 +1132,8 @@
       "total_attempts": 4,
       "last_error": "法规详情下载失败，存在遗漏风险；初始化或增量游标不推进",
       "last_attempt_at": "2026-10-16T00:52:26+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://gdii.gd.gov.cn/zwgk/tzgg1011/index.html"
     },
     "cn_7239ba11c55b": {
       "source_id": "cn_7239ba11c55b",
@@ -1055,7 +1146,8 @@
       "total_attempts": 4,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:52:43+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://drc.gd.gov.cn/gdsnyj/gkmlpt/policy"
     },
     "cn_79acd9237aeb": {
       "source_id": "cn_79acd9237aeb",
@@ -1068,7 +1160,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:52:43+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.gxzf.gov.cn/zfwj/zxwj/index.shtml"
     },
     "cn_55a439b16478": {
       "source_id": "cn_55a439b16478",
@@ -1081,7 +1174,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:52:44+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "http://gxt.gxzf.gov.cn/xxgk/fgzc/"
     },
     "cn_d8311f7de6e6": {
       "source_id": "cn_d8311f7de6e6",
@@ -1094,7 +1188,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:52:51+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "http://fgw.gxzf.gov.cn/zfxxgkzl/wjzx/zyzc/"
     },
     "cn_9cee9310b605": {
       "source_id": "cn_9cee9310b605",
@@ -1107,7 +1202,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:52:54+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.hainan.gov.cn/hainan/zfwj/szfzcwj.shtml?ddtab=true"
     },
     "cn_ef2bc5e95df5": {
       "source_id": "cn_ef2bc5e95df5",
@@ -1120,7 +1216,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:53:34+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://iitb.hainan.gov.cn/iitb/bmwjjj/list3.shtml?ddtab=true"
     },
     "cn_cf5880769bc6": {
       "source_id": "cn_cf5880769bc6",
@@ -1133,7 +1230,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:53:46+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://plan.hainan.gov.cn/sfgw/0503/list3.shtml?ddtab=true"
     },
     "cn_67c4991ac3e9": {
       "source_id": "cn_67c4991ac3e9",
@@ -1146,7 +1244,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:53:53+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/"
     },
     "cn_dc94216cbc6d": {
       "source_id": "cn_dc94216cbc6d",
@@ -1159,7 +1258,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:53:57+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcwj/"
     },
     "cn_43f3081a512a": {
       "source_id": "cn_43f3081a512a",
@@ -1172,7 +1272,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:54:36+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://jjxxw.cq.gov.cn/zwgk_213/zcwj/qtwj/"
     },
     "cn_1abbceed2047": {
       "source_id": "cn_1abbceed2047",
@@ -1185,7 +1286,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:54:49+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.sc.gov.cn/10462/c103041/newzfwj.shtml?channelid=9c2314405df140af83649dff8f30055b"
     },
     "cn_b922a2143a80": {
       "source_id": "cn_b922a2143a80",
@@ -1198,7 +1300,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:55:26+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fgw.sc.gov.cn/sfgw/zcwj/olist.shtml"
     },
     "cn_3973d84e5084": {
       "source_id": "cn_3973d84e5084",
@@ -1211,7 +1314,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:55:29+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://jxt.sc.gov.cn/scjxt/xzgfxwj/zcgfxwj_list.shtml"
     },
     "cn_2f5ca615b97d": {
       "source_id": "cn_2f5ca615b97d",
@@ -1224,7 +1328,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:55:51+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.guizhou.gov.cn/zwgk/zcfg/szfwj/qff/"
     },
     "cn_8f9dbeeebd54": {
       "source_id": "cn_8f9dbeeebd54",
@@ -1237,7 +1342,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:56:09+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://gxt.guizhou.gov.cn/zwgk/xxgkml/zcwj/gfxwj/"
     },
     "cn_8a2870d6b4f1": {
       "source_id": "cn_8a2870d6b4f1",
@@ -1250,7 +1356,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:56:29+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fgw.guizhou.gov.cn/zwgk/xxgkml/zcfg/zcwj/"
     },
     "cn_61f329f622c8": {
       "source_id": "cn_61f329f622c8",
@@ -1263,7 +1370,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:56:31+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://nyj.guizhou.gov.cn/zwgk/xxgkml/zcwj_2/jnwj/ptwj_2/"
     },
     "cn_ec89e3d97259": {
       "source_id": "cn_ec89e3d97259",
@@ -1276,7 +1384,8 @@
       "total_attempts": 4,
       "last_error": "官方访问受限；保留失败证据，不能绕过权限",
       "last_attempt_at": "2026-10-16T00:56:38+00:00",
-      "last_status": "blocked"
+      "last_status": "blocked",
+      "source_url": "https://www.yn.gov.cn/zwgk/zcwj/zxwj/index.html"
     },
     "cn_44bc1881857e": {
       "source_id": "cn_44bc1881857e",
@@ -1289,7 +1398,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:56:42+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://yndrc.yn.gov.cn/html/zhengwugongkai/zhengcewenjian/xingzhengguifanxingwenjian/"
     },
     "cn_f4e44b3462eb": {
       "source_id": "cn_f4e44b3462eb",
@@ -1302,7 +1412,8 @@
       "total_attempts": 4,
       "last_error": "官方来源无法读取，后续仍重试",
       "last_attempt_at": "2026-10-16T00:56:53+00:00",
-      "last_status": "error"
+      "last_status": "error",
+      "source_url": "https://gxt.yn.gov.cn/zfxxgk/zcwj/qtlxwj/"
     },
     "cn_7beeafa4d326": {
       "source_id": "cn_7beeafa4d326",
@@ -1315,7 +1426,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:56:57+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.xizang.gov.cn/zwgk/zfxxgk/fdzdgknr/zc/xzgfxwj/"
     },
     "cn_17594557097c": {
       "source_id": "cn_17594557097c",
@@ -1328,20 +1440,23 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:56:59+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "http://jxt.xizang.gov.cn/xzweb/xzgovlist/63"
     },
     "cn_3a9624d397b1": {
       "source_id": "cn_3a9624d397b1",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:57:14+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:57:11+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://drc.xizang.gov.cn/zwgk_1941/xzgfxwj/"
     },
     "cn_969ad9ff831b": {
       "source_id": "cn_969ad9ff831b",
@@ -1354,7 +1469,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:57:14+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.shaanxi.gov.cn/zfxxgk/fdzdgknr/zcwj/nszfwj/szf/"
     },
     "cn_42ed5bf25d5d": {
       "source_id": "cn_42ed5bf25d5d",
@@ -1367,7 +1483,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:57:31+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://sndrc.shaanxi.gov.cn/zfxxgk/zc/fgwj/sfzggwwj/index.html"
     },
     "cn_878d16ddc7e6": {
       "source_id": "cn_878d16ddc7e6",
@@ -1380,7 +1497,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:58:07+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://gxt.shaanxi.gov.cn/xxgk/gfxwj/"
     },
     "cn_6088d4f495dd": {
       "source_id": "cn_6088d4f495dd",
@@ -1393,7 +1511,8 @@
       "total_attempts": 4,
       "last_error": "官方来源无法读取，后续仍重试",
       "last_attempt_at": "2026-10-16T00:58:16+00:00",
-      "last_status": "error"
+      "last_status": "error",
+      "source_url": "https://www.gansu.gov.cn/gsszf/c100055/xxgk_zc.shtml"
     },
     "cn_98fa85780368": {
       "source_id": "cn_98fa85780368",
@@ -1406,7 +1525,8 @@
       "total_attempts": 4,
       "last_error": "官方来源无法读取，后续仍重试",
       "last_attempt_at": "2026-10-16T00:58:23+00:00",
-      "last_status": "error"
+      "last_status": "error",
+      "source_url": "https://fzgg.gansu.gov.cn/fzgg/tzgg/list.shtml"
     },
     "cn_884a06211f11": {
       "source_id": "cn_884a06211f11",
@@ -1419,7 +1539,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:58:38+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://gxt.gansu.gov.cn/gxt/c107558/xxgk_infolist.shtml"
     },
     "cn_5cc7c12757b9": {
       "source_id": "cn_5cc7c12757b9",
@@ -1432,7 +1553,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:58:46+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "http://www.qinghai.gov.cn/xxgk/1/"
     },
     "cn_2988b09ee88b": {
       "source_id": "cn_2988b09ee88b",
@@ -1445,7 +1567,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:58:53+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "http://fgw.qinghai.gov.cn/zfxxgk/sdzdgknr/fgwwj/"
     },
     "cn_b8b647e382c3": {
       "source_id": "cn_b8b647e382c3",
@@ -1458,7 +1581,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:59:07+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://gxt.qinghai.gov.cn/gongxintingwenjian.html"
     },
     "cn_7c77b32d80d0": {
       "source_id": "cn_7c77b32d80d0",
@@ -1471,33 +1595,38 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:59:14+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.nx.gov.cn/zwgk/qzfwj/"
     },
     "cn_354fb314969b": {
       "source_id": "cn_354fb314969b",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:59:27+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:59:24+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/zcfg/gxtwj/"
     },
     "cn_44abb54d7339": {
       "source_id": "cn_44abb54d7339",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:59:29+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:59:27+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://fzggw.nx.gov.cn/zcgh/fgwwj/"
     },
     "cn_cbab808cd2a0": {
       "source_id": "cn_cbab808cd2a0",
@@ -1510,7 +1639,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:59:29+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.xinjiang.gov.cn/xinjiang/gfxwj1/zfxxgk_zc_gfxwj.shtml"
     },
     "cn_f772ee3b1cc5": {
       "source_id": "cn_f772ee3b1cc5",
@@ -1523,7 +1653,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:59:31+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://gxt.xinjiang.gov.cn/gxt/gfxwj/zfxxgk_gknrz.shtml"
     },
     "cn_e4c52c960d02": {
       "source_id": "cn_e4c52c960d02",
@@ -1536,7 +1667,8 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:59:33+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://xjdrc.xinjiang.gov.cn/xjfgw/c108358/zfxxgk_gknrz.shtml"
     },
     "intl_851d40951467": {
       "source_id": "intl_851d40951467",
@@ -1549,20 +1681,23 @@
       "total_attempts": 4,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T00:59:35+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://niwe.res.in/department/department_s%26r/"
     },
     "intl_f7bbe0b9bd8f": {
       "source_id": "intl_f7bbe0b9bd8f",
       "first_seen_on": "2026-10-14",
       "initial_window_start": "2026-09-15",
-      "initialized": true,
-      "last_verified_date": "2026-10-16",
-      "last_verified_at": "2026-10-16T00:59:42+00:00",
+      "initialized": false,
+      "last_verified_date": null,
+      "last_verified_at": null,
       "consecutive_failures": 0,
       "total_attempts": 4,
       "last_error": "",
       "last_attempt_at": "2026-10-16T00:59:40+00:00",
-      "last_status": "ok_no_recent"
+      "last_status": "ok_no_recent",
+      "migration_note": "旧游标缺少 V6.2 严格分页证据，需要重新核验",
+      "source_url": "https://gov.om/en/authority-for-public-services-regulation"
     },
     "intl_1b89a16f2050": {
       "source_id": "intl_1b89a16f2050",
@@ -1575,7 +1710,8 @@
       "total_attempts": 4,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T00:59:42+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://adala.justice.gov.ma/fr/resources/411"
     },
     "cn_c2e6bff0ffc3": {
       "source_id": "cn_c2e6bff0ffc3",
@@ -1588,7 +1724,8 @@
       "total_attempts": 2,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T00:59:56+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://www.nea.gov.cn/policy/zxwj.htm"
     },
     "cn_09b62684b798": {
       "source_id": "cn_09b62684b798",
@@ -1601,7 +1738,8 @@
       "total_attempts": 2,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T01:00:01+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.ndrc.gov.cn/xxgk/wjk/index.html"
     },
     "cn_1900232416b3": {
       "source_id": "cn_1900232416b3",
@@ -1614,7 +1752,8 @@
       "total_attempts": 2,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T01:00:05+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://prpq.nea.gov.cn/zcfgx"
     },
     "cn_c89dbe504b64": {
       "source_id": "cn_c89dbe504b64",
@@ -1627,7 +1766,8 @@
       "total_attempts": 2,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T01:00:09+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fzggw.zj.gov.cn/col/col1599556/"
     },
     "cn_271bc860137c": {
       "source_id": "cn_271bc860137c",
@@ -1640,7 +1780,8 @@
       "total_attempts": 2,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T01:00:09+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://fzggw.zj.gov.cn/col/col1599544/"
     },
     "cn_a85889da2306": {
       "source_id": "cn_a85889da2306",
@@ -1653,7 +1794,8 @@
       "total_attempts": 2,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T01:00:39+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://zjb.nea.gov.cn/xxgk/zcfg/"
     },
     "cn_e8b37b376677": {
       "source_id": "cn_e8b37b376677",
@@ -1666,7 +1808,8 @@
       "total_attempts": 2,
       "last_error": "取得带原文证据的法规，但目录仍未完整覆盖，继续补查",
       "last_attempt_at": "2026-10-16T01:00:40+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.ln.gov.cn/web/zwgkx/zfwj/szfbgtwj/index.shtml"
     },
     "cn_385aa60c445a": {
       "source_id": "cn_385aa60c445a",
@@ -1679,7 +1822,8 @@
       "total_attempts": 2,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T01:00:43+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.xinjiang.gov.cn/xinjiang/c112543/zfxxgk_zhengce.shtml"
     },
     "cn_2b0fcb94d833": {
       "source_id": "cn_2b0fcb94d833",
@@ -1692,7 +1836,8 @@
       "total_attempts": 2,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T01:00:45+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.xinjiang.gov.cn/xinjiang/c112545/zfxxgk_zhengce.shtml"
     },
     "cn_a51c943c9543": {
       "source_id": "cn_a51c943c9543",
@@ -1705,7 +1850,8 @@
       "total_attempts": 2,
       "last_error": "官方来源连接失败或超时，后续自动补查",
       "last_attempt_at": "2026-10-16T01:00:45+00:00",
-      "last_status": "connection_error"
+      "last_status": "connection_error",
+      "source_url": "https://www.guizhou.gov.cn/zwgk/zcfg/szfwj/qfbf/"
     },
     "cn_5dab18c54fb9": {
       "source_id": "cn_5dab18c54fb9",
@@ -1718,7 +1864,8 @@
       "total_attempts": 2,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T01:00:45+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://drc.gd.gov.cn/gfxwj5633/index.html"
     },
     "cn_236457835be8": {
       "source_id": "cn_236457835be8",
@@ -1731,7 +1878,8 @@
       "total_attempts": 2,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T01:00:48+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://drc.gd.gov.cn/ywtz/index.html"
     },
     "cn_5555c1d4376e": {
       "source_id": "cn_5555c1d4376e",
@@ -1744,7 +1892,8 @@
       "total_attempts": 2,
       "last_error": "分页加载或日期区间不完整，不能推进已核验游标",
       "last_attempt_at": "2026-10-16T01:00:51+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://fd.bjx.com.cn/zc/"
     },
     "cn_b637baec056a": {
       "source_id": "cn_b637baec056a",
@@ -1757,7 +1906,8 @@
       "total_attempts": 2,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T01:00:57+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.cnenergynews.cn/"
     },
     "cn_2e22c487ffee": {
       "source_id": "cn_2e22c487ffee",
@@ -1770,7 +1920,8 @@
       "total_attempts": 2,
       "last_error": "达到详情或目录翻页限额，不能判定完整覆盖",
       "last_attempt_at": "2026-10-16T01:01:00+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://www.cweea.com.cn/zcfg/zcfg/"
     },
     "cn_f1e4c09a897d": {
       "source_id": "cn_f1e4c09a897d",
@@ -1783,7 +1934,8 @@
       "total_attempts": 2,
       "last_error": "列表候选发布日期不完整，不能证明覆盖所需时间段",
       "last_attempt_at": "2026-10-16T01:01:00+00:00",
-      "last_status": "partial_coverage"
+      "last_status": "partial_coverage",
+      "source_url": "https://nyj.nmg.gov.cn/slh/zfwj/"
     },
     "cn_6d0248c0ef07": {
       "source_id": "cn_6d0248c0ef07",
@@ -1796,7 +1948,8 @@
       "total_attempts": 2,
       "last_error": "专站目录选择器或公开检索尚未识别到有效列表，等待真实网页结构核验",
       "last_attempt_at": "2026-10-16T01:01:01+00:00",
-      "last_status": "needs_adapter"
+      "last_status": "needs_adapter",
+      "source_url": "https://drc.xizang.gov.cn/zwgk_1941/zc/"
     }
   }
 }
